@@ -1,4 +1,6 @@
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sink772/javaee-scorex/badge.svg)](https://search.maven.org/search?q=g:com.github.sink772%20a:javaee-scorex)
+> ⚠️ **NOTE: This repository is deprecated and no longer maintained.**
+>
+> Please see the ICON official repository: https://github.com/icon-project/javaee-scorex
 
 # scorex package for Java SCORE
 
